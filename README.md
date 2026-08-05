@@ -2,12 +2,6 @@
 
 Repositório com os notebooks Jupyter utilizados nas aulas de Introdução à Python. Este repositório serve como **base para os alunos**: cada aluno deve criar seu próprio fork e trabalhar nos notebooks a partir dele.
 
-## Conteúdo
-
-| Notebook | Tópicos |
-|---|---|
-| `Aula_01_Operadores_Aritméticos,_Strings_e_Tipos_(Alunos).ipynb` | Operadores aritméticos, expressões, funções aritméticas, strings, valores e tipos de dados, exercícios |
-
 ## Como começar
 
 ### 1. Faça um fork deste repositório
